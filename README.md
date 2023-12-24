@@ -1,0 +1,1 @@
+A variety of CNN designs have been proposed, each with its own advantages and disadvantages. In this work, the Sequential API, and VGG-16, CNN models were all tested on the same dataset, and the results were compared
